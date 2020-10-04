@@ -1,4 +1,4 @@
-ML_Contributions
+Can Machine Learning Predict Charitable Giving?
 ==============================
 
 This analysis aims to predict donor behavior amongst first-time donors for a performing-arts nonprofit organization in the US. This project will use a combination of classification and regression algorithms to predict the following:
